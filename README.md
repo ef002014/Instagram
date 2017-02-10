@@ -1,25 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The goal of this assignment is to create an Instagram-like​ site using the following tutorial:
 
-Things you may want to cover:
+Make an instagram like site in under 30 minutes! (Ruby on Rails)
+https://www.youtube.com/watch?v=MpFO4Zr0EPE (Links to an external site.)
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # Instagram
